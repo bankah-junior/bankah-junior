@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Bekoe Bankah</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bankah-junior&label=Profile%20views&color=0e75b6&style=flat" alt="bankah-junior" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bankah-junior" alt="bankah-junior" /></a> </p>
 
 - 🌱 I’m currently learning **React and NodeJS**
 
