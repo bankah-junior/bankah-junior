@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankah-junior&show_icons=true&locale=en&layout=compact" alt="bankah-junior" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bankah-junior&show_icons=true&locale=en" alt="bankah-junior" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankah-junior&" alt="bankah-junior" /></p>
