@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web and Mobile App Development** and **Trading**
 
-- 📫 How to reach me **anthonybekoebankah@gmail.com**
+- 📱 How to reach me https://wa.me/233262991910
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
