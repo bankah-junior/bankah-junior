@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Development** & **Fund Management**
 
-- 👨‍💻 All of my projects are available at ([https://anthonybekoebankah.netlify.app/])
+- 👨‍💻 All of my projects are available at https://anthonybekoebankah.netlify.app/
 
 - 💬 Ask me about **Web and Mobile App Development** and **Trading**
 
