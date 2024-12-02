@@ -1,19 +1,40 @@
-<h1 align="center">Hi 👋, I'm Anthony Bekoe Bankah</h1>
-<h3 align="center">A prospective Software Engineer & Fund Manager from Ghana</h3>
+<h1 align="center">👋 Hi, I'm Anthony Bekoe Bankah</h1>
+<h3 align="center">
+🎯 Prospective Software Engineer & Fund Manager <br> 
+💡 Specializing in Full-Stack Development, Financial Technology, and Algorithmic Trading
+</h3>
 
+---
 
+### 🚀 About Me  
+💻 **Passionate about technology and finance**: I thrive on merging the two worlds to create impactful solutions.  
+🌐 **Building scalable applications**: From innovative web platforms to intuitive mobile apps, I aim to deliver excellence.  
+📈 **Exploring algorithmic trading**: Programming in MQL and Pine Script to create automated and data-driven trading strategies.
 
-- 🌱 I’m currently learning **Software Development** & **Fund Management**
+---
 
-- 👨‍💻 All of my projects are available at https://anthonybekoebankah.netlify.app/
+### 🌐 Let's Connect  
 
-- 💬 Ask me about **Web and Mobile App Development** and **Trading**
+| Platform      | Link                                                                                  |
+|---------------|---------------------------------------------------------------------------------------|
+| 🌍 **Portfolio**    | [anthonybekoebankah.netlify.app](https://anthonybekoebankah.netlify.app/)                                  |
+| 💼 **LinkedIn**     | [linkedin.com/in/anthony-bekoe-bankah-080448240](https://linkedin.com/in/anthony-bekoe-bankah-080448240) |
+| 🐦 **Twitter**      | [@iam_bankah](https://twitter.com/iam_bankah)                                                          |
+| 📷 **Instagram**    | [iam.bankah](https://instagram.com/iam.bankah)                                                       |
+| 📱 **WhatsApp**     | [Chat Now](https://wa.me/233262991910)                                                              |
 
-- 📱 How to reach me https://wa.me/233262991910
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iam_bankah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_bankah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anthony-bekoe-bankah-080448240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-bekoe-bankah-080448240" height="30" width="40" /></a>
-<a href="https://instagram.com/iam.bankah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.bankah" height="30" width="40" /></a>
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bankah-junior&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bankah-junior&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div> 
+
+---
+
+<p align="center">
+  💡 "Technology empowers, but innovation inspires." <br>
+  🚀 *Feel free to explore my repositories and connect with me!*
 </p>
