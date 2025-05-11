@@ -21,7 +21,6 @@
 | 💼 **LinkedIn**     | [linkedin.com/in/anthony-bekoe-bankah-080448240](https://linkedin.com/in/anthony-bekoe-bankah-080448240) |
 | 🐦 **Twitter**      | [@iam_bankah](https://twitter.com/iam_bankah)                                                          |
 | 📷 **Instagram**    | [iam.bankah](https://instagram.com/iam.bankah)                                                       |
-| 📱 **WhatsApp**     | [Chat Now](https://wa.me/233262991910)                                                              |
 
 ---
 
