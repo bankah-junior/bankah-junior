@@ -18,9 +18,9 @@
 | Platform      | Link                                                                                  |
 |---------------|---------------------------------------------------------------------------------------|
 | 🌍 **Portfolio**    | [anthonybekoebankah.netlify.app](https://anthonybekoebankah.netlify.app/)                                  |
-| 💼 **LinkedIn**     | [linkedin.com/in/anthony-bekoe-bankah-080448240](https://linkedin.com/in/anthony-bekoe-bankah-080448240) |
-| 🐦 **Twitter**      | [@iam_bankah](https://twitter.com/iam_bankah)                                                          |
-| 📷 **Instagram**    | [iam.bankah](https://instagram.com/iam.bankah)                                                       |
+| 💼 **LinkedIn**     | [linkedin.com/in/anthony-bekoe-bankah-080448240](https://linkedin.com/in/anthony-bekoe-bankah) |
+| 🐦 **Twitter**      | [@iam_bankah](https://twitter.com/iambankah)                                                          |
+| 📷 **Instagram**    | [iam.bankah](https://instagram.com/iambankah)                                                       |
 
 ---
 
